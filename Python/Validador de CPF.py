@@ -39,6 +39,6 @@ print ('O segundo digito verificador é:' , digito_verificador_2)
 if ncpf == numero_cpf:
     print ('O CPF informado', ncpf,'é valido')
 else:
-    print('O CPF informado', ncpf, 'é invalido e o numero correto é', numero_cpf)
+    print('O CPF informado', ncpf, 'é invalido e o numero que deveria ser correto é', numero_cpf)
 
 
